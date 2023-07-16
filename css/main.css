@@ -696,6 +696,7 @@ input[type="reset"].button-primary,
 input[type="button"].button-primary {
 	background: #313131;
 	color: #FFFFFF;
+	margin-right: 2rem;
 }
 .button.button-primary:hover,
 a.button.button-primary:hover,
@@ -1577,7 +1578,8 @@ p.testimo{
 	width: 250px;
 }
 .button-section [class*="col-"] .button:first-child {
-	margin-right: 4rem;
+	margin-right: 2rem;
+	/*margin-right: 4rem;*/
 }
 
 /**
